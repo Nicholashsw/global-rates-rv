@@ -183,8 +183,8 @@ shared core reproduces the Treasury project's published results.
 ## Open work
 
 1. **UK gilt yields** — Germany/UK is the last untested high-prior pair. The Bank
-   of England endpoint returns HTML for the series codes tried; see
-   [DATA_PULL_REQUEST.md](DATA_PULL_REQUEST.md).
+   of England endpoint returned HTML for the series codes tried, so the gilt data
+   still needs a manual download.
 2. **Time-varying β (Kalman)** — β instability across regimes is the *identified*
    failure mechanism, making this the theoretically motivated next step rather
    than a fishing expedition.
